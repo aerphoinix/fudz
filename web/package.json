@@ -1,0 +1,22 @@
+{
+  "name": "fudz",
+  "version": "0.0.1",
+  "description": "Fūdz",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "solid-devtools": "^0.29.3",
+    "typescript": "^5.4.2",
+    "vite": "^5.1.6",
+    "vite-plugin-solid": "^2.10.1"
+  },
+  "dependencies": {
+    "solid-js": "^1.8.15"
+  }
+}
